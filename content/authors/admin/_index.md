@@ -23,11 +23,11 @@ social:
     link: https://www.linkedin.com/in/vaishnavi2powar
     icon_pack: fab
     icon: linkedin
-  - display:
-      header: false
-    link: https://www.youtube.com/@dhruvbhirud
-    icon_pack: fab
-    icon: youtube
+#  - display:
+#      header: false
+#    link: https://www.youtube.com/@dhruvbhirud
+#    icon_pack: fab
+#    icon: youtube
 organizations: []
 education:
   courses:
