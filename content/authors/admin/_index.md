@@ -1,5 +1,5 @@
 ---
-title: vaishnavi Powar
+title: dhruv
 role: Computer Engineer
 avatar_filename: avatar.jpg
 bio: ""
