@@ -22,24 +22,24 @@ date_format: Jan 2006
 #   `title`, `organization`, and `date_start` are the required parameters.
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-#item:
-#  - certificate_url: https://www.coursera.org
-#    date_end: ''
-#    date_start: '2021-01-25'
-#    description: ''
-#    organization: Coursera
-#    organization_url: https://www.coursera.org
-#    title: Neural Networks and Deep Learning
-#    url: ''
-#  - certificate_url: https://www.edx.org
-#    date_end: ''
-#    date_start: '2021-01-01'
-#    description: Formulated informed blockchain models, hypotheses, and use cases.
-#    organization: edX
-#    organization_url: https://www.edx.org
-#    title: Blockchain Fundamentals
-#    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-#  - certificate_url: https://www.datacamp.com
+item:
+  - certificate_url: https://github.com/powar02vaishnavi/powar02vaishnavi/raw/main/Certificates/Machine%20Learning%20With%20Python.pdf
+    date_end: '2022-01-31'
+    date_start: '2021-12-01'
+    description: ''
+    organization: verzeo
+    organization_url: https://verzeo.com
+    title: Machine Learning With Python 
+    url: ''
+  - certificate_url: https://github.com/powar02vaishnavi/powar02vaishnavi/raw/main/Certificates/MASTERS%20IN%20CLOUD%20COMPUTING.pdf
+    date_end: '2022-12-26'
+    date_start: '2022-07-27'
+    description: ''
+    organization: Jetking
+    organization_url: https://www.jetking.com
+    title: Masters in Cloud Computing
+    url: ''
+#  - certificate_url: 
 #    date_end: '2020-12-21'
 #    date_start: '2020-07-01'
 #    description: ''
