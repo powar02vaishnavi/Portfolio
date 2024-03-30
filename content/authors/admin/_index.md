@@ -4,9 +4,6 @@ role: Computer Engineer
 avatar_filename: avatar.jpg
 bio: I’m Computer Engineering Student from Pune, India, Aiming to improve my
   skills. Always trying to learn new things.
-superuser: true
-status:
-  icon: ☕️
 social:
   - icon: envelope
     icon_pack: fas
@@ -25,6 +22,14 @@ social:
     icon: linkedin
     link: "https://www.linkedin.com/in/vaishnavi-p-249793191?utm_source=share&utm_c\
       ampaign=share_via&utm_content=profile&utm_medium=android_app "
+education:
+  courses:
+    - course: Computer Engineering
+      institution: Savitribai Phule Pune University
+      year: 2023
+superuser: true
+status:
+  icon: ☕️
 ---
 
 
