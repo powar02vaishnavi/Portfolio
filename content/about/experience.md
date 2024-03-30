@@ -1,20 +1,20 @@
 ---
 # An instance of the Experience widget.
 # Documentation: https://docs.hugoblox.com/page-builder/
-widget: experience
+#widget: experience
 
 # This file represents a page section.
-headless: true
+#headless: true
 
 # Order that this section appears on the page.
-weight: 20
-
-title: Experience
-subtitle:
+#weight: 20
+#
+#title: Experience
+#subtitle:
 
 # Date format for experience
 #   Refer to https://docs.hugoblox.com/customization/#date-format
-date_format: Jan 2006
+#date_format: Jan 2006
 
 # Experiences.
 #   Add/remove as many `experience` items below as you like.
@@ -45,6 +45,6 @@ date_format: Jan 2006
 #    date_end: '2020-12-31'
 #    description: Taught electronic engineering and researched semiconductor physics.
 
-design:
-  columns: '1'
+#design:
+#  columns: '1'
 ---
