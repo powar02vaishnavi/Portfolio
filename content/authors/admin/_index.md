@@ -1,5 +1,5 @@
 ---
-title: vaishnavi Powar
+title: Vaishnavi Powar
 role: Computer Engineer
 avatar_filename: avatar.jpg
 bio: ""
