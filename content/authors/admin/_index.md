@@ -19,6 +19,12 @@ social:
   - icon: instagram
     icon_pack: fab
     link: https://www.instagram.com/powar_vaishnavi?utm_source=qr&igsh=MWloMXNlc2E4bnU1dA==
+  - display:
+      header: false
+    icon_pack: fab
+    icon: linkedin
+    link: "https://www.linkedin.com/in/vaishnavi-p-249793191?utm_source=share&utm_c\
+      ampaign=share_via&utm_content=profile&utm_medium=android_app "
 ---
 
 
