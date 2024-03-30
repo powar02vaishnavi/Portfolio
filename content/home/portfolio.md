@@ -1,7 +1,7 @@
 ---
 # A section created with the Portfolio widget.
 # This section displays content from `content/project/`.
-# See https://docs.hugoblox.com/widget/portfolio/
+# See https://wowchemy.com/docs/widget/portfolio/
 widget: portfolio
 
 # This file represents a page section.
@@ -30,10 +30,16 @@ content:
       tag: '*'
     - name: Machine Learning
       tag: ML
-    - name: Computer Vision
-      tag: CV
-    - name: NLP
-      tag: NLP
+    - name: Android Application
+      tag: Android
+    - name: Web Application
+      tag: Web
+    - name: Java
+      tag: Java
+    - name: Springboot
+      tag: Springboot
+    - name: Angular
+      tag: Angular
 
 design:
   columns: '1'
