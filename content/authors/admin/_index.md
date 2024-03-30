@@ -27,6 +27,7 @@ education:
     - course: Computer Engineering
       institution: Savitribai Phule Pune University
       year: 2023
+email: vaishnavi2powar@gmail.com
 superuser: true
 status:
   icon: ☕️
