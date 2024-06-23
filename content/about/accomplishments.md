@@ -35,7 +35,7 @@ item:
     date_end: '2022-12-26'
     date_start: '2022-07-27'
     description: '
-    # Certificate Courses Description
+    ##### Certificate Courses Description
 
 Throughout these certificate courses, I have gained hands-on experience with the following topics:
 
@@ -50,7 +50,7 @@ Throughout these certificate courses, I have gained hands-on experience with the
 - AWS Administration SAA-CO2
 - Employability & Mocks
 
-## Topics Covered
+##### Topics Covered
 
 - Introduction to cloud computing and its benefits.
 - Overview of cloud service models (IaaS, PaaS, SaaS) and deployment models (public, private, hybrid).
@@ -60,7 +60,7 @@ Throughout these certificate courses, I have gained hands-on experience with the
 - Implementing security best practices in the cloud.
 - Deploying and scaling applications in the cloud.
 
-## Hands-on Experience
+##### Hands-on Experience
 
 - Created virtual servers and storage in a cloud environment.
 - Configured networking settings and security groups.
@@ -68,7 +68,7 @@ Throughout these certificate courses, I have gained hands-on experience with the
 - Implemented security measures such as encryption and access control.
 - Deployed and scaled applications in the cloud, utilizing services like AWS Elastic Beanstalk or Azure App Services.
 
-## Relevant Skills Gained
+##### Relevant Skills Gained
 
 - Proficiency in cloud computing concepts and technologies.
 - Ability to deploy and manage applications in a cloud environment.
