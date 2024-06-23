@@ -36,7 +36,8 @@ item:
     date_start: '2022-07-27'
     description: '
     Throughout these certificate courses, I have gained hands-on experience with Topics:
-•	Foundations of Hardware
+    
+•	Foundations of Hardware 
 •	Configure & Troubleshoot Networks N+ (CompTIA)* (N10-007)
 •	Install, Configure & Troubleshoot Windows 10 (MD-100)
 •	Microsoft 365 Administration (MS-100)
@@ -46,6 +47,7 @@ item:
 •	RHCSA (SA-1 + SA-2)
 •	AWS Administration SAA-CO2
 •	Employability & Mocks
+
 Topics Covered:
 •	Introduction to cloud computing and its benefits.
 •	Overview of cloud service models (IaaS, PaaS, SaaS) and deployment models (public, private, hybrid).
