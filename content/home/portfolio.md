@@ -30,8 +30,8 @@ content:
       tag: '*'
     - name: Machine Learning
       tag: ML
-    - name: Android Application
-      tag: Android
+    # - name: Android Application
+    #   tag: Android
     - name: Web Application
       tag: Web
     - name: Java

@@ -34,7 +34,37 @@ item:
   - certificate_url: https://github.com/powar02vaishnavi/powar02vaishnavi/raw/main/Certificates/MASTERS%20IN%20CLOUD%20COMPUTING.pdf
     date_end: '2022-12-26'
     date_start: '2022-07-27'
-    description: ''
+    description: '
+    Throughout these certificate courses, I have gained hands-on experience with Topics:
+•	Foundations of Hardware
+•	Configure & Troubleshoot Networks N+ (CompTIA)* (N10-007)
+•	Install, Configure & Troubleshoot Windows 10 (MD-100)
+•	Microsoft 365 Administration (MS-100)
+•	Python Programming (v-3.9)
+•	CCNA 200-301
+•	MCSA-2019
+•	RHCSA (SA-1 + SA-2)
+•	AWS Administration SAA-CO2
+•	Employability & Mocks
+Topics Covered:
+•	Introduction to cloud computing and its benefits.
+•	Overview of cloud service models (IaaS, PaaS, SaaS) and deployment models (public, private, hybrid).
+•	Hands-on experience with cloud platforms such as AWS, and Azure.
+•	Setting up virtual servers, storage, and networking in the cloud.
+•	Managing and monitoring cloud resources.
+•	Implementing security best practices in the cloud.
+•	Deploying and scaling applications in the cloud.
+Hands-on Experience:
+•	Created virtual servers and storage in a cloud environment.
+•	Configured networking settings and security groups.
+•	Managed and monitored cloud resources using cloud provider tools.
+•	Implemented security measures such as encryption and access control.
+•	Deployed and scaled applications in the cloud, utilizing services like AWS Elastic Beanstalk or Azure App Services.
+•	Relevant Skills Gained:
+•	Proficiency in cloud computing concepts and technologies.
+•	Ability to deploy and manage applications in a cloud environment.
+•	Understanding of security considerations and best practices in the cloud.
+'
     organization: Jetking
     organization_url: https://www.jetking.com
     title: Masters in Cloud Computing
